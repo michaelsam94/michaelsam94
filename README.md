@@ -10,7 +10,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michaelsam94)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelsam00@yahoo.com)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-7c5cff?style=for-the-badge)](https://michaelsam00.netlify.app)
+[![Source](https://img.shields.io/badge/Source-my--portfolio-24292f?style=for-the-badge&logo=github)](https://github.com/michaelsam94/my-portfolio)
+
 </div>
+
+---
+
+**Portfolio:** **[michaelsam00.netlify.app](https://michaelsam00.netlify.app)** · **Source:** **[github.com/michaelsam94/my-portfolio](https://github.com/michaelsam94/my-portfolio)**
 
 ---
 
@@ -164,15 +171,34 @@ Welcome to my GitHub profile! I'm a passionate **Android engineer and architect*
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/michaelsam94">
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=michaelsam94&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+      alt="Michael Samuel Naeem GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/michaelsam94">
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsam94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      alt="Top languages on GitHub"
+    />
+  </a>
+</p>
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelsam94&show_icons=true&theme=tokyonight&hide_border=false)](https://github.com/michaelsam94)
+<p align="center">
+  <a href="https://github.com/michaelsam94">
+    <img
+      width="90%"
+      src="https://streak-stats.demolab.com?user=michaelsam94&theme=tokyonight&hide_border=true"
+      alt="GitHub streak stats"
+    />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelsam94&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/michaelsam94)
-
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=michaelsam94&theme=tokyonight&hide_border=false)](https://github.com/michaelsam94)
-
-</div>
+<p align="center"><sub>Cards load from <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> and <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>. If they are blank, wait a moment and refresh—free tier rate limits can delay images.</sub></p>
 
 ---
 
@@ -232,5 +258,7 @@ Welcome to my GitHub profile! I'm a passionate **Android engineer and architect*
 
 ## 🔗 Portfolio & code
 
-- **Portfolio website (source):** [github.com/michaelsam94/my-portfolio](https://github.com/michaelsam94/my-portfolio)
-- **Live site:** [michaelsam00.netlify.app](https://michaelsam00.netlify.app)
+| | |
+|:---|:---|
+| **Live portfolio** | **[https://michaelsam00.netlify.app](https://michaelsam00.netlify.app)** |
+| **Repository** | **[github.com/michaelsam94/my-portfolio](https://github.com/michaelsam94/my-portfolio)** |
