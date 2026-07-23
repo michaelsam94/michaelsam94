@@ -17,7 +17,7 @@
 
 ---
 
-**Portfolio:** **[michaelsam94.tech](https://michaelsam94.tech)** · **Source:** **[github.com/michaelsam94/my-portfolio](https://github.com/michaelsam94/my-portfolio)**
+**Portfolio:** **[michaelsam94.com](https://michaelsam94.com)** · **Source:** **[github.com/michaelsam94/my-portfolio](https://github.com/michaelsam94/my-portfolio)**
 
 ---
 
